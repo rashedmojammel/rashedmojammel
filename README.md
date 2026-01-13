@@ -17,8 +17,7 @@
 
 - 🔭 Currently working on full-stack web applications
 - 🌱 Constantly learning and exploring new technologies
-- 💡 Open to collaborating on innovative projects
-- ⚡ Fun fact: I speak multiple programming languages!
+- 💡 Open to collaborating on innovative project
 
 ---
 
@@ -83,7 +82,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashed07/)
 
 </div>
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
