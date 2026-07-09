@@ -22,8 +22,7 @@ const rashedulAlam = {
   university: "American International University-Bangladesh",
   location: "Dhaka, Bangladesh",
   stack: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
-  currentFocus: "Production-grade Next.js portfolio & full-stack apps",
-  funFact: "I debug better-auth ObjectId mismatches for fun 😅",
+  currentFocus: "Production-grade Next.js portfolio & full-stack apps"
 };
 ```
 
