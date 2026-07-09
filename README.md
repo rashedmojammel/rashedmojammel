@@ -23,7 +23,6 @@ const rashedulAlam = {
   location: "Dhaka, Bangladesh",
   stack: ["Next.js", "React", "Node.js", "Express", "MongoDB"],
   currentFocus: "Production-grade Next.js portfolio & full-stack apps",
-  funFact: "I debug better-auth ObjectId mismatches for fun 😅",
 };
 ```
 
@@ -50,12 +49,6 @@ const rashedulAlam = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=rashedmojammel&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedmojammel&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=rashedmojammel&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashedmojammel&theme=redical&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rashedmojammel&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
