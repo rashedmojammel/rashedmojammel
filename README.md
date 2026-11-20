@@ -60,41 +60,60 @@ const rashedulAlam = {
 
 ## 🛠️ Technical Skills & Technologies
 
-### 🐧 Systems & Infrastructure
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash,powershell,nginx" />
-</p>
+### 🐧 Systems & Scripting
 
-### 🐳 Containerization & Virtualization
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform" />
-</p>
+</td>
+<td width="50%" valign="top">
+
+### 🐳 Containers & Virtualization
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+**Podman · Proxmox · VirtualBox**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,githubactions,gitlab" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions" />
 
-### 🌐 Networking & Databases
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+### 🌐 Web Servers & Databases
 
-### 💻 Software Development
+<img src="https://skillicons.dev/icons?i=nginx,postgres,mysql,mongodb" />
 
-<p>
+**Microsoft SQL Server · Oracle DB**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming & Development
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,html,css,tailwind" />
-</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔧 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,firebase" />
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Statistics
@@ -107,11 +126,9 @@ const rashedulAlam = {
 
 ---
 
-## 🎯 My Engineering Philosophy
+## 🏆 Certifications & Achievements
 
-> Understand the system. Automate the process. Build reliable infrastructure. Keep learning.
-
-I believe in learning through practical implementation rather than just theoretical knowledge. My long-term goal is to design, deploy, automate, and maintain reliable infrastructure and scalable platforms.
+- 🎓 Programming Hero — Web Development Certification
 
 ---
 
