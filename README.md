@@ -2,15 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Rashedul%20Alam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descSize=16&descAlignY=55" width="100%"/>
 
-<a href="https://www.linkedin.com/in/rashed07/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Rashedmojammel56@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/rashedmojammel">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/rashed07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Rashedmojammel56@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rashedmojammel"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -25,105 +19,88 @@
 ```javascript
 const rashedulAlam = {
   name: "Rashedul Alam",
-  role: "Aspiring DevOps / Cloud / Platform Engineer",
-  currentPosition: "System Engineer Intern",
-  company: "Divine IT Limited",
   education: "BSc in Computer Science & Engineering",
   university: "American International University-Bangladesh",
   location: "Dhaka, Bangladesh",
 
-  background: "Full Stack Development",
+  currentRole: "System Engineer Intern",
+  careerGoal: "DevOps / Cloud / Platform Engineer",
 
   interests: [
     "Linux System Administration",
-    "DevOps Engineering",
-    "Cloud Infrastructure",
-    "Containerization",
     "Infrastructure Automation",
-    "CI/CD Pipelines",
-    "Platform Engineering",
+    "Containerization & Orchestration",
+    "Cloud Computing",
+    "CI/CD & DevOps",
     "System Reliability"
   ],
 
-  currentlyLearning: [
-    "Advanced Linux Administration",
-    "Docker & Podman",
-    "Networking",
-    "Nginx",
-    "Infrastructure Automation",
-    "Cloud Computing"
-  ],
+  technologies: {
+    infrastructure: ["Linux", "Rocky Linux", "Proxmox"],
+    containers: ["Docker", "Podman"],
+    webServers: ["Nginx"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    development: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
+    tools: ["Git", "GitHub", "Postman", "VirtualBox"]
+  },
 
-  philosophy: "Learn by building real-world systems"
+  learningApproach: "Learn by building real-world projects"
 };
 ```
 
 - 🔭 Currently working as a **System Engineer Intern at Divine IT Limited**.
-- 🐧 Exploring Linux system administration, server management, and infrastructure operations.
-- 🐳 Learning containerization and deployment using Docker and Podman.
-- 🌐 Practicing networking, Nginx, reverse proxies, and server configuration.
+- 🌱 Building practical skills in Linux administration, networking, containerization, and infrastructure management.
+- 🐧 Exploring Linux server administration, virtualization, Docker, Podman, and Nginx.
 - ☁️ Working towards becoming an independent DevOps, Cloud, and Platform Engineer.
-- 💻 Bringing my Full Stack Development experience into infrastructure and platform engineering.
-- 🚀 Building practical projects to develop real-world engineering skills.
+- 🛠️ Focused on hands-on projects, troubleshooting, automation, and production-oriented infrastructure.
+- 💻 Bringing a Full Stack Development background into infrastructure and platform engineering.
 - 📫 Reach me at **Rashedmojammel56@gmail.com**.
 
 ---
 
 ## 🛠️ Technical Skills & Technologies
 
-### 🐧 Operating Systems & System Administration
+### 🐧 Systems & Infrastructure
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash,powershell" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash,powershell,nginx" />
 </p>
 
 ### 🐳 Containerization & Virtualization
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform" />
 </p>
 
-**Additional Tools:** Podman, Proxmox, VirtualBox
+### ☁️ Cloud & DevOps
 
-### ☁️ Cloud & DevOps Engineering
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,githubactions,gitlab" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,githubactions,gitlab" />
 </p>
 
-### 🌐 Web Servers & Networking
+### 🌐 Networking & Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nginx" />
-</p>
-
-**Areas:** TCP/IP, DNS, SSH, Firewalls, Reverse Proxy, HTTP/HTTPS, Network Troubleshooting
-
-### 🗄️ Databases
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-**Additional Experience:** Microsoft SQL Server, Oracle Database
+### 💻 Software Development
 
-### 💻 Programming & Software Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,cs,react,nextjs,nodejs,express,nestjs,dotnet,html,css,tailwind" />
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,html,css,tailwind" />
 </p>
 
-### 🔧 Development & Collaboration Tools
+### 🔧 Development Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
 ---
 
-## 🎯 Current Learning & Engineering Focus
+## 🚀 Current Learning & Engineering Focus
 
-| Domain | Technologies & Focus |
+| Area | Focus |
 |---|---|
 | Linux Administration | Rocky Linux, users, permissions, services, storage |
 | Networking | TCP/IP, DNS, SSH, firewalls, troubleshooting |
@@ -132,54 +109,31 @@ const rashedulAlam = {
 | Web Infrastructure | Nginx, reverse proxy, web server configuration |
 | Databases | PostgreSQL, MySQL, backup and recovery |
 | Automation | Bash scripting, infrastructure automation |
-| CI/CD | GitHub Actions, automated deployment |
-| Cloud Computing | AWS, cloud infrastructure fundamentals |
+| CI/CD | GitHub Actions, deployment pipelines |
+| Cloud | AWS, cloud infrastructure fundamentals |
 | Orchestration | Kubernetes fundamentals |
-| Infrastructure as Code | Terraform, Ansible fundamentals |
-| Monitoring | System monitoring, logs, troubleshooting |
 
 ---
 
-## 🏗️ Hands-on DevOps Engineering Projects
+## 🏗️ Hands-on Engineering Projects
 
-My goal is to complete **30 practical DevOps and Infrastructure Engineering projects**, progressing from beginner to advanced level.
+My goal is to build 30 practical DevOps and infrastructure engineering projects, progressing from beginner to advanced level.
 
-### Areas of Exploration
+Some of the areas I am exploring:
 
-- 🐧 Linux Server Administration & Hardening
-- 🌐 Nginx Web Server & Reverse Proxy Configuration
-- 🖥️ Virtual Machine Deployment with Proxmox
-- 🐳 Dockerized Application Deployment
-- 📦 Podman Container Management
-- 🗄️ PostgreSQL & MySQL Deployment
-- 💾 Database Backup & Recovery Automation
-- ☁️ Nextcloud Deployment & Migration
-- 🔐 SSH, Firewall & Server Security
-- ⚙️ Bash Scripting & Automation
-- 🔄 CI/CD Pipeline Implementation
-- 🏗️ Infrastructure as Code
-- ☸️ Kubernetes Application Deployment
-- 📊 Infrastructure Monitoring & Logging
-- ☁️ Cloud Infrastructure Deployment
+- Linux Server Administration & Hardening
+- Virtual Machine Deployment with Proxmox
+- Nginx Web Server & Reverse Proxy Configuration
+- Dockerized Application Deployment
+- Podman Container Management
+- Database Deployment, Backup & Recovery
+- Nextcloud Deployment & Migration
+- Automated Deployment with CI/CD
+- Infrastructure as Code
+- Kubernetes Application Deployment
+- Cloud Infrastructure & Monitoring
 
-**My objective:** Develop the ability to independently design, deploy, troubleshoot, automate, and maintain production-oriented infrastructure.
-
----
-
-## 💻 Software Development Background
-
-Before focusing on DevOps and infrastructure engineering, I developed a strong foundation in full-stack web development.
-
-**Technologies I've worked with:**
-
-- Frontend: React.js, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, NestJS
-- Databases: MongoDB, PostgreSQL, MySQL
-- Authentication: JWT, OAuth 2.0
-- Development: REST APIs, Git, GitHub
-- Deployment: Vercel, VPS, cPanel
-
-This background helps me understand the complete application lifecycle, from development to deployment and infrastructure management.
+*Follow my repositories to explore my practical implementations and engineering progress.*
 
 ---
 
@@ -187,37 +141,17 @@ This background helps me understand the complete application lifecycle, from dev
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rashedmojammel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedmojammel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedmojammel&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashedmojammel&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashedmojammel&theme=redical&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 Engineering Philosophy
+## 🎯 My Engineering Philosophy
 
 > Understand the system. Automate the process. Build reliable infrastructure. Keep learning.
 
-I believe in learning through practical implementation rather than just theoretical knowledge.
-
-My long-term goal is to become a skilled DevOps, Cloud, and Platform Engineer capable of:
-
-- Designing reliable infrastructure.
-- Managing Linux-based production environments.
-- Automating repetitive operational tasks.
-- Building CI/CD pipelines.
-- Deploying and managing containerized applications.
-- Working with cloud infrastructure.
-- Improving application performance, scalability, and reliability.
+I believe in learning through practical implementation rather than just theoretical knowledge. My long-term goal is to design, deploy, automate, and maintain reliable infrastructure and scalable platforms.
 
 ---
 
@@ -227,21 +161,12 @@ My long-term goal is to become a skilled DevOps, Cloud, and Platform Engineer ca
 
 **Always open to learning, collaboration, and meaningful engineering discussions.**
 
-<a href="https://www.linkedin.com/in/rashed07/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Rashedmojammel56@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/rashed07/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Rashedmojammel56@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rashedmojammel&label=Profile%20Views&color=2c5364&style=flat" alt="Profile Views"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 
 </div>
 
