@@ -95,46 +95,6 @@ const rashedulAlam = {
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
-
----
-
-## 🚀 Current Learning & Engineering Focus
-
-| Area | Focus |
-|---|---|
-| Linux Administration | Rocky Linux, users, permissions, services, storage |
-| Networking | TCP/IP, DNS, SSH, firewalls, troubleshooting |
-| Virtualization | Proxmox, VirtualBox, virtual machines |
-| Containers | Docker, Podman, container networking |
-| Web Infrastructure | Nginx, reverse proxy, web server configuration |
-| Databases | PostgreSQL, MySQL, backup and recovery |
-| Automation | Bash scripting, infrastructure automation |
-| CI/CD | GitHub Actions, deployment pipelines |
-| Cloud | AWS, cloud infrastructure fundamentals |
-| Orchestration | Kubernetes fundamentals |
-
----
-
-## 🏗️ Hands-on Engineering Projects
-
-My goal is to build 30 practical DevOps and infrastructure engineering projects, progressing from beginner to advanced level.
-
-Some of the areas I am exploring:
-
-- Linux Server Administration & Hardening
-- Virtual Machine Deployment with Proxmox
-- Nginx Web Server & Reverse Proxy Configuration
-- Dockerized Application Deployment
-- Podman Container Management
-- Database Deployment, Backup & Recovery
-- Nextcloud Deployment & Migration
-- Automated Deployment with CI/CD
-- Infrastructure as Code
-- Kubernetes Application Deployment
-- Cloud Infrastructure & Monitoring
-
-*Follow my repositories to explore my practical implementations and engineering progress.*
-
 ---
 
 ## 📊 GitHub Statistics
